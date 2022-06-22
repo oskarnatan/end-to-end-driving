@@ -1,7 +1,8 @@
-# Fully End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-Agent
+# End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent
 
-This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+Implementation of:
+> O. Natan and J. Miura, "End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent", IEEE Trans. on Intelligent Vehicles, 2022.
 
-Preprint: https://arxiv.org/abs/2204.05513
+IEEEXplore: https://ieeexplore.ieee.org/document/9802907
 
 Code: To be uploaded
