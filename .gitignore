@@ -7,3 +7,5 @@ x13/log/*
 s13/log/*
 data/*
 carla/*
+
+!data/README.md
