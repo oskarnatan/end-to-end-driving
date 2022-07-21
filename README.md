@@ -9,11 +9,10 @@ O. Natan and J. Miura, “End-to-end Autonomous Driving with Semantic Depth Clou
 
 ## Notes:
 1. Some files are copied and modified from [[TransFuser, CVPR 2021]](https://github.com/autonomousvision/transfuser) repository. Please go to their repository for more details.
-2. I assume you are familiar with Linux, python3, NVIDIA CUDA Toolkit, PyTorch GPU, and other necessary packages, hence I don't have to explain much detail.
+2. I assume you are familiar with Linux, python3, NVIDIA CUDA Toolkit, PyTorch GPU, and other necessary packages. Hence, I don't have to explain much detail.
 3. Install Unreal Engine 4 and CARLA:
     - For UE4, follow: https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/
-    - For CARLA, go to https://github.com/carla-simulator/carla/releases/tag/0.9.10.1 and download prebuilt CARLA + additional maps
-    - Extract to a directory (e.g., ~/OSKAR/CARLA/CARLA_0.9.10.1)
+    - For CARLA, go to https://github.com/carla-simulator/carla/releases/tag/0.9.10.1 and download prebuilt CARLA + additional maps. Then, extract them to a directory (e.g., ~/OSKAR/CARLA/CARLA_0.9.10.1)
 
 ## Steps:
 1. Download the dataset and extract to subfolder data. Or generate the data by yourself.
