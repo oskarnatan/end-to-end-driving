@@ -9,4 +9,16 @@ Related works:
 3. O. Natan and J. Miura, "Semantic Segmentation and Depth Estimation with RGB and DVS Sensor Fusion for Multi-view Driving Perception," in Proc. Asian Conf. Pattern Recognition (ACPR), Jeju Island, South Korea, Nov. 2021, pp. 352–365. [[paper]](https://doi.org/10.1007/978-3-031-02375-0_26) [[code]](https://github.com/oskarnatan/RGBDVS-fusion)
 
 
-Code: To be uploaded
+Notes:
+1. Some codes are copied and modified from [[TransFuser, CVPR 2021]](https://github.com/autonomousvision/transfuser) repository.
+
+
+Steps:
+1. Download the dataset and extract to subfolder data. Or generate the data by yourself.
+2. To train-val-test each model, go to their folder and read the instruction written in the README.md file
+
+
+To do list:
+1. Add download link for the dataset
+2. Add explanation on how to generate the dataset
+3. Add explanation on how to conduct automated driving evaluation
