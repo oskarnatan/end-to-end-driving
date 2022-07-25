@@ -27,7 +27,7 @@ O. Natan and J. Miura, “End-to-end Autonomous Driving with Semantic Depth Clou
 
 ## Generate Data and Automated Driving Evaluation:
 1. Run CARLA server:
-    - CUDA_VISIBLE_DEVICES=0 ~/OSKAR/CARLA/CARLA_0.9.10/CarlaUE4.sh -opengl --world-port=2000
+    - CUDA_VISIBLE_DEVICES=0 ~/OSKAR/CARLA/CARLA_0.9.10.1/CarlaUE4.sh -opengl --world-port=2000
 2. To generate data / collect data, Run expert (results are saved in subfolder 'data'):
     - CUDA_VISIBLE_DEVICES=0 ./leaderboard/scripts/run_expert.sh
 3. For automated driving, Run agents (results are saved in subfolder 'data'):
