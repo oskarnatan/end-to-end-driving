@@ -17,6 +17,13 @@ O. Natan and J. Miura, “End-to-end Autonomous Driving with Semantic Depth Clou
 ## Steps:
 1. Download the dataset and extract to subfolder data. Or generate the data by yourself.
 2. To train-val-test each model, go to their folder and read the instruction written in the README.md file
+    - [X13](https://github.com/oskarnatan/end-to-end-driving/tree/main/x13) (proposed model)
+    - [S13](https://github.com/oskarnatan/end-to-end-driving/tree/main/s13) (proposed model with SDC mapping)
+    - [CILRS](https://github.com/oskarnatan/end-to-end-driving/tree/main/cilrs)
+    - [AIM](https://github.com/oskarnatan/end-to-end-driving/tree/main/aim)
+    - [LF](https://github.com/oskarnatan/end-to-end-driving/tree/main/late_fusion)
+    - [GF](https://github.com/oskarnatan/end-to-end-driving/tree/main/geometric_fusion)
+    - [TF](https://github.com/oskarnatan/end-to-end-driving/tree/main/transfuser)
 
 ## Generate Data and Automated Driving Evaluation:
 1. Run CARLA server:
