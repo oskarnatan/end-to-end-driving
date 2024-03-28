@@ -24,6 +24,7 @@ O. Natan and J. Miura, “End-to-end Autonomous Driving with Semantic Depth Clou
     - [LF](https://github.com/oskarnatan/end-to-end-driving/tree/main/late_fusion)
     - [GF](https://github.com/oskarnatan/end-to-end-driving/tree/main/geometric_fusion)
     - [TF](https://github.com/oskarnatan/end-to-end-driving/tree/main/transfuser)
+3. To use our trained models, download [here](https://drive.google.com/drive/folders/1BymplOXgYXovw_HbriQ950N5YG6vzibi?usp=sharing)
 
 ## Generate Data and Automated Driving Evaluation:
 1. Run CARLA server:
